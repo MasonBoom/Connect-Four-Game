@@ -9,3 +9,4 @@ In the terminal, type "Python3 ConnectFour.py" to start the game
 
 This is what the end of the game looks like when one of the players wins the game
 
+![j](https://github.com/MasonBoom/Connect-Four-Game/blob/main/images/Untitled-1.py%20-%20Connect%20four%20-%20Visual%20Studio%20Code%202_1_2022%209_24_06%20PM.png?raw=true)
